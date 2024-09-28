@@ -1,0 +1,7 @@
+2024/09/28-04:34:09.516 2e3c Recovering log #32
+2024/09/28-04:34:09.527 2e3c Delete type=0 #32
+2024/09/28-04:34:09.527 2e3c Delete type=3 #29
+2024/09/28-04:35:29.758 3d8c Level-0 table #38: started
+2024/09/28-04:35:29.758 3d8c Level-0 table #38: 0 bytes OK
+2024/09/28-04:35:29.767 3d8c Delete type=0 #36
+2024/09/28-04:35:29.786 3d8c Manual compaction at level-0 from '!fog!9dFKQRlCWRe1DuoV' @ 72057594037927935 : 1 .. '!fog!xdD1LLpezS4cbaFr' @ 0 : 0; will stop at (end)

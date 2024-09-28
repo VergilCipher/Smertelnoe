@@ -1,0 +1,17 @@
+2024/09/28-04:19:47.141 3008 Recovering log #24
+2024/09/28-04:19:47.142 3008 Level-0 table #26: started
+2024/09/28-04:19:47.147 3008 Level-0 table #26: 18499 bytes OK
+2024/09/28-04:19:47.161 3008 Delete type=0 #24
+2024/09/28-04:19:47.163 3008 Delete type=3 #23
+2024/09/28-04:22:33.779 3d8c Level-0 table #29: started
+2024/09/28-04:22:33.799 3d8c Level-0 table #29: 1975 bytes OK
+2024/09/28-04:22:33.805 3d8c Delete type=0 #27
+2024/09/28-04:22:33.814 3d8c Manual compaction at level-0 from '!settings!4UfOHflgxsoqWKE7' @ 72057594037927935 : 1 .. '!settings!xjAy67x7tSnytErp' @ 0 : 0; will stop at '!settings!Eljoeg6inV6TgPoN' @ 515 : 1
+2024/09/28-04:22:33.814 3d8c Compacting 2@0 + 1@1 files
+2024/09/28-04:22:33.821 3d8c Generated table #30@0: 23 keys, 10146 bytes
+2024/09/28-04:22:33.822 3d8c Compacted 2@0 + 1@1 files => 10146 bytes
+2024/09/28-04:22:33.830 3d8c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/28-04:22:33.831 3d8c Delete type=2 #22
+2024/09/28-04:22:33.831 3d8c Delete type=2 #26
+2024/09/28-04:22:33.831 3d8c Delete type=2 #29
+2024/09/28-04:22:33.853 3d8c Manual compaction at level-0 from '!settings!Eljoeg6inV6TgPoN' @ 515 : 1 .. '!settings!xjAy67x7tSnytErp' @ 0 : 0; will stop at (end)

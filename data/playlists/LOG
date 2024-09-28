@@ -1,0 +1,7 @@
+2024/09/28-04:34:09.623 3008 Recovering log #24
+2024/09/28-04:34:09.635 3008 Delete type=0 #24
+2024/09/28-04:34:09.635 3008 Delete type=3 #21
+2024/09/28-04:35:29.802 3d8c Level-0 table #30: started
+2024/09/28-04:35:29.802 3d8c Level-0 table #30: 0 bytes OK
+2024/09/28-04:35:29.807 3d8c Delete type=0 #28
+2024/09/28-04:35:29.821 3d8c Manual compaction at level-0 from '!playlists!RwOqqX69GBLcz9hR' @ 72057594037927935 : 1 .. '!playlists.sounds!qIBGh2I5ko4COqbw.bfM8FCuJmEVyCBoV' @ 0 : 0; will stop at (end)
